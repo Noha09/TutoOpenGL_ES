@@ -1,5 +1,7 @@
 # Tutorial de la libreria OpenGL
-Este es un tutorial en español para graficar por computadora utilizando la libreria de OpenGL, mas en especifico las librerias GLFW y GLEW. Cabe aclarar que para este punto ya deben de estar configuradas las librerias correspondientes para importarlas al proyecto, sino aqui hay un tutorial de como hacer esta configuracion:
+Este es un tutorial en español para graficar por computadora utilizando la libreria de OpenGL, mas en especifico las librerias GLFW y GLEW.
+
+Cabe aclarar que para este punto ya deben de estar configuradas las librerias correspondientes para importarlas al proyecto, sino aqui hay un tutorial de como hacer esta configuracion:
 
 https://youtu.be/4zjCqjfjcPs?list=PLRtjMdoYXLf4yTkXgyRBy5LXTFhdU7LWq
 
